@@ -14,5 +14,4 @@ public class _Main {
         typeResult(15, 2, multiplication(15, 2), "multiplication");
 
     }
-
 }

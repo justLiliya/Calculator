@@ -22,5 +22,4 @@ public class Calculator {
         int result = firstNum * secondNum;
         return result;
     }
-
 }
