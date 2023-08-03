@@ -12,7 +12,7 @@ public class Calculator {
     }
 
     public static int difference(int firstNum, int secondNum) {
-        return result = max(firstNum, secondNum) - min(firstNum, secondNum);
+        return result = firstNum - secondNum;
     }
 
     public static int multiplication(int firstNum, int secondNum) {
