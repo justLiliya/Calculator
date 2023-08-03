@@ -1,4 +1,4 @@
-package ru.khlebnikova.calcApp.service;
+package ru.khlebnikova.calcapp.service;
 
 public class ResultWriterService {
 
